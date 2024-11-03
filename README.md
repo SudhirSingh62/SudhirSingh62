@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SudhirSingh62&label=Profile%20views&color=0e75b6&style=flat" alt="SudhirSingh62" /> </p>
 <p align="left"> <a href="https://twitter.com/sudhirsingh_18" target="blank"><img src="https://img.shields.io/twitter/follow/sudhirsingh_18?logo=twitter&style=for-the-badge" alt="sudhirsingh_18" /></a> </p>
+
 - 🌱 I’m currently learning **Data Structure and Algorithms**
+  
 - 📫 How to reach me **sudhirsingh.awm@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudhirsingh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhirsingh_18" height="30" width="40" /></a>
